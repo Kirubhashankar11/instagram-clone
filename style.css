@@ -13,7 +13,7 @@ header{
     align-items: center;
     padding: 10px 18%;
     border-bottom: 1px solid rgba(219,219,219,1);
-    background-color: white;
+    background-color: white; 
 }
 header .logo{
     height: 29px;
@@ -58,5 +58,32 @@ header nav ul li a img{
 header nav ul li a i{
     font-size: 22px;
     color: rgba(38,38,38,1);
+}
+
+
+/*Body section*/
+
+section{
+    padding: 30px 18%;
+    background-color:#fafafa;
+    display: flex;
+}
+.left-side{
+    width: 65%;
+}
+.story{
+    display: flex;
+    padding: 16px;
+    background-color: white;
+    border: 1px solid rgba(219,219,219,1)
+
+
+
+
+
+
+
+.right-side{
+    width: 35%;
 }
 
